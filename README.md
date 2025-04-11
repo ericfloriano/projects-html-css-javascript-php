@@ -49,7 +49,7 @@ O formulário envia os dados para o e-mail configurado via **SMTP (Gmail)** util
    $email_envio = 'seuemail@gmail.com';
    $email_pass = 'suasenha';
    ```
-3. Acesse `index.html` para testar
+3. Acesse `index.html` da pasta `4-HTML+CSS+RESPONSIVO+JS+PHPMAILER` para testar.
 
 ---
 
